@@ -1,0 +1,80 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+    font-size: 35px;
+    color: #A61D00;
+    text-decoration: none;
+    border: 2px solid #FF8B73;
+    margin: 30px;
+    padding: 8px;
+    background-color: #FF8B73;
+    border-radius: 10px;
+    box-shadow: -5px 5px 2px 1px #BF3030;
+}
+header {
+    background-color:#98FB98 ;
+    padding: 20px;
+}
+
+h1 {
+    text-decoration: none;
+    position: flex;
+    left:140px;
+    font-size:30px;
+    padding: 10px;
+    border-bottom: 4px solid #00782D;
+    color:#00B945 ;
+    justify-content: space-around;
+    width: 350px;
+}
+
+.text {
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 10px;
+    left: 30px;
+    background-color: #FFA07A;
+    color:#00782D;
+    width: 270px;
+    height: 250px;
+}
+
+h2 {
+    font-size: 40px;
+    color: #FF2C00;
+    position: relative;
+    top: 2px;
+}
+
+.lol {
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 10px;
+    left: 30px;
+    background-color: #FFA07A;
+    color:#00782D;
+    width: 270px;
+    height: 580px;
+}
+
+.link-text {
+   color: #00782D;
+}
+
+.social img:hover {
+    border: 3px solid #FF2C00;
+    border-radius: 35%;
+}
+
+footer {
+    position: relative;
+    background-color: #98FB98;
+}
+
+h2:hover {
+    color: #A61D00;
+}
