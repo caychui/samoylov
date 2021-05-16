@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+    font-size: 35px;
+    color: #A61D00;
+    text-decoration: none;
+    border: 2px solid #FF8B73;
+    margin: 30px;
+    padding: 8px;
+    background-color: #FF8B73;
+    border-radius: 10px;
+    box-shadow: -5px 5px 2px 1px #BF3030;
+}
+
+header {
+    background-color:#98FB98 ;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #FF2C00;
+    position: relative;
+    text-decoration: none;
+    left:50px;
+    padding: 10px;
+    border-bottom: 4px solid #00782D;
+    color:#00B945 ;
+    width: 250px;
+}
+
+
+.text {
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 270px;
+    left: 400px;
+    background-color: #FFA07A;
+    color:#00782D;
+    width: 270px;
+    height: 350px;
+}
+
+.link-text {
+   color: #A61D00;
+
+}
+
+.link-text:visited {
+  color:#FF2C00;
+}
+
+.text-big {
+    color:#A61D00;
+    font-size: 40px;
+}
+
+p:hover {
+    color: #FF2C00;
+}
+
+.kartinka {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 250px;
+    left:50px;
+}
+
+footer {
+    position: relative;
+    bottom: 10px;
+    background-color: #98FB98;
+    margin-top: 150px;
+}
+
+ .social img:hover {
+    border: 3px solid #FF2C00;
+    border-radius: 35%;
+}
