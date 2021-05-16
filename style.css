@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:#98FB98 ;
+    padding: 20px;
+}
+
+.link-header {
+    font-size: 35px;
+    color: #A61D00;
+    text-decoration: none;
+    border: 2px solid #FF8B73;
+    margin: 30px;
+    padding: 8px;
+    background-color: #FF8B73;
+    border-radius: 10px;
+    box-shadow: -5px 5px 2px 1px #BF3030;
+}
+
+
+.link-nav {
+    text-decoration: none;
+    position: flex;
+    left:140px;
+    font-size:30px;
+    padding: 10px;
+    border-bottom: 4px solid #00782D;
+    color:#00B945 ;
+    justify-content: space-around;
+}
+
+h1 {
+    font-size: 50px;
+    color: #FF2C00;
+    position: relative;
+    top: 30px;
+}
+
+.text {
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 165px;
+    left: 450px;
+    background-color: #FFA07A;
+    color:#00782D;
+    width: 270px;
+    height: 170px;
+    boottom: 10px;
+}
+
+.kartinka {
+    position: relative;
+    bottom:150px;
+    border: 6px solid #00782D;
+}
+
+footer {
+    position: relative;
+    bottom: 120px;
+    background-color: #98FB98;
+}
+
+.social img:hover {
+    border: 3px solid #FF2C00;
+    border-radius: 35%;
+}
+.seti p {
+    color: black;
+}
+
+h1:hover {
+    color: #A61D00;
+}
